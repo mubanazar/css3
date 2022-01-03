@@ -1,0 +1,207 @@
+.class{
+    background-color: white;
+    color: brown;
+    border: 5px solid red;
+    display: inline-block;
+    border-radius: 5px;
+    text-align: center;
+    font-size: xx-large;
+    padding: 10px 50px;
+    text-shadow: .5px .5px red;
+    font-weight: 700;
+    font-style: italic;
+    box-sizing: border-box;
+    box-shadow: 5px 5px purple;
+    position: relative;
+    left: 500px;
+    height: 150px;
+    width: 25vw;
+}
+body{
+    background-color: gray;
+}
+.classborder{
+    background-color: gray;
+    border: 10px solid green;
+    height: 950px;
+}
+.class1{
+    background-color: white;
+    color:indigo;
+    border: 10px solid red;
+    display: inline-block;
+    border-radius: 5px;
+    text-align: center;
+    padding: 10px;
+    padding-bottom: 30px;
+    text-shadow: 1px 1px red;
+    font-weight: 700;
+    box-sizing: border-box;
+    box-shadow: 10px 10px purple;
+    height: 400px;
+    width: 25vw;
+    font-size: xx-large;
+}
+.class2{
+        background-color: white;
+        color:indigo;
+        height: 150px;
+        border: 10px solid red;
+        display: inline-block;
+        border-radius: 5px;
+        text-align: center;
+        padding: 10px;
+        padding-bottom: 30px;
+        text-shadow: .5px .5px red;
+        font-weight: 700;
+        box-sizing: border-box;
+        box-shadow: 10px 10px purple; 
+        position: relative;
+        left: 650px;
+        top: 10px;
+        height: 400px;
+    width: 25vw;
+    font-size: xx-large;
+}
+.image{
+    height: 300px;
+    width: 300px;
+}
+.class3{
+    background-color: white;
+    color:indigo;
+    border: 10px solid red;
+    display: inline-block;
+    border-radius: 10px;
+    padding-bottom: 20px;
+    text-shadow: .5px .5px red;
+    font-weight: 700;
+    box-sizing: border-box;
+    box-shadow: 10px 10px purple;
+    position: relative;
+    top: 520px;
+    right: 750px;
+    height: 350px;
+    width: 25vw;
+    font-size: xx-large;
+}
+.class4{
+    background-color: white;
+    color:indigo;
+    border: 10px solid red;
+    display: inline-block;
+    border-radius: 5px;
+    text-align: center;
+    font-size: large;
+    padding-bottom: 50px;
+    text-shadow: .5px .5px red;
+    font-weight: 700;
+    box-sizing: border-box;
+    box-shadow: 10px 10px purple;
+    position: relative;
+    top: 50px;
+    left: 1050px;
+    height: 400px;
+    width: 25vw;
+    font-size: xx-large;
+}
+.class5{
+    color:indigo;
+    display: inline-block;
+    text-align: center;
+    font-size: large;
+    position: relative;
+    top: 100px;  
+}
+.fixed{
+    background-color:lime;
+    color:indigo;
+    height: 100px;
+    width: 550px;
+    border: 7px solid red;
+    display: inline-block;
+    border-radius: 5px;
+    text-align: center;
+    font-size:xx-large;
+    padding-bottom: 50px;
+    text-shadow: .5px .5px red;
+    font-weight: 700;
+    box-sizing: border-box;
+    box-shadow: 7px 7px purple;
+    position: relative;
+    left: 450px;
+    bottom: 200px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    position: fixed;
+}
+.right{
+    position: fixed;
+    font-style: italic;
+}
+.left{
+    text-align:end;
+    font-size: x-large;
+    font-style: italic;
+
+}
+.ten{
+    position: relative;
+    right: 50px;
+}
+.flex-container{
+    display: flex;
+    background-color: green;
+    flex-flow: row wrap;
+    align-items: center;
+   width: 50vw;
+   position: relative;
+   left: 380px;
+   position: sticky;
+   padding-top: 100px;
+   justify-content: space-around;
+   border: purple 7px solid;
+   
+
+}
+.flex-item{
+    background-color: yellowgreen;
+    margin: 1px;
+    height: 220px;
+    width: 20vw;
+    font-size: large;
+    text-align: center;
+    font-weight: bold;
+}
+.flex-item1{
+    background-color: yellowgreen;
+    margin: 2px;
+    height: 200px;
+    width: 50vw;
+    font-size: large;
+    text-align: center;
+    font-weight: bold;
+}
+.title1{
+    font-size: xx-large;
+    font-weight: bold;
+    color: black;
+}
+.welcome{
+    color: black;
+    font-weight: bolder;
+    font-size: 35px;
+    font-family: Verdana;
+    height: 90px;
+    text-align: center;
+    padding-top: 30px;
+    padding: 0px;
+    margin: 0px;
+    width: 40vw;
+    background-color: green;
+    position: relative;
+    bottom: 522px;
+    left: 400px;
+
+}
